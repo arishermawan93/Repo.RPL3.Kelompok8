@@ -6,7 +6,8 @@
 </head>
 
 <?php
-echo "My first PHP script!";
+	echo "<center> My first PHP script!";
+	echo "<center> 10112242 - Aris Hermawan"
 ?>
 
 <body>
