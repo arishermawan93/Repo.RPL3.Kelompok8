@@ -9,6 +9,8 @@
 	echo "<center> My first PHP script!";
 	echo "<center> 10112242 - Aris Hermawan"
 	echo "<center> 10112255 - Deden Sugianto"
+	echo "<center> 10112257 - Irwan Nur Rachman"
+
 ?>
 
 <body>
