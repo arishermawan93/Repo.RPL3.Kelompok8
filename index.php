@@ -12,7 +12,7 @@
 	echo "<center> 10112255 - Deden Sugianto"
 	echo "<center> 10112257 - Irwan Nur Rachman"
 	echo "<center> 10112834 - Dicky Teguh"
-	echo "<center><font color="blue"> 10112277 - Genta Mahendra" </font>
+	echo "<center> 10112277 - Genta Mahendra"
 
 ?>
 
